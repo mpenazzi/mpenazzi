@@ -1,4 +1,4 @@
-## Hi there 👋 I am Marina
+## Hi there 👋 I am Marina Penazzi
 
 - 👩‍🎓 I am an industrial engineer who enjoys coding to get optimized results
 - 🔭 I’m currently working with Python
@@ -23,7 +23,7 @@
 
 <div> 
   <a href = "mailto:marina_penazzi@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/francisco-proc%C3%B3pio-60339092" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/marina-penazzi-a95881150" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
